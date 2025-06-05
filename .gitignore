@@ -106,3 +106,4 @@ Sources/Microcharts.Samples.Forms/Microcharts.Samples.Forms.Android/Resources/Re
 
 # Exclude built NuGet packages
 artifacts/
+.env
